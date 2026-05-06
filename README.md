@@ -1,5 +1,5 @@
-🧵 Embroidery Defect Detection using Mask R-CNN
-📌 Overview
+ Embroidery Defect Detection using Mask R-CNN
+ Overview
 
 In the textile and garment industry, embroidery quality inspection is traditionally performed manually by human inspectors. This process is time-consuming, subjective, and prone to human error—especially when dealing with complex embroidery patterns and high production volumes.
 
